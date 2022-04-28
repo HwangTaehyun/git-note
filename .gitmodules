@@ -1,3 +1,6 @@
 [submodule "sub_child"]
 	path = sub_child
 	url = git@github.com:HwangTaehyun/sub_child.git
+[submodule "git-submodule-note"]
+	path = git-submodule-note
+	url = git@github.com:HwangTaehyun/git-submodule-note.git
